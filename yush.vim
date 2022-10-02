@@ -43,7 +43,7 @@
 
   highlight clear
   syntax reset
-  let g:colors_name = "ThemerVim"
+  let g:colors_name = "yush"
 
   """"""""""
   " Normal "
